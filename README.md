@@ -153,10 +153,6 @@ To add a new tool to the system:
   ```
 - **Streamlit Errors**: Make sure you're running the application from the project root directory
 
-## License
-
-[Specify your license here]
-
 ## Acknowledgments
 
 - This project uses LangGraph and LangChain for agent orchestration
