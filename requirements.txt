@@ -1,0 +1,10 @@
+openai>=1.0.0
+langgraph
+langchain
+streamlit
+requests
+beautifulsoup4
+tavily-python
+typing-extensions
+pydantic
+python-dotenv
